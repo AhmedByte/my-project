@@ -14,6 +14,11 @@ def fun3(n):
         else:
             status = 'odd'
         print(f"{i} -> i'm {status}")
+
+
 fun1("ahmed")
 fun2(3)
 fun3(9)
+
+print("GoodBye")
+
